@@ -1,4 +1,4 @@
-public class Worker extends HoneyBee{
+public abstract class Worker extends HoneyBee{
 
     @Override
     public String fly() {

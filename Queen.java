@@ -1,4 +1,4 @@
-public class Queen extends HoneyBee{
+public abstract class Queen extends HoneyBee{
 
     @Override
     public String fly() {

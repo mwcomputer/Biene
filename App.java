@@ -19,7 +19,7 @@ public class App {
 
         // Das sollte eigentlich nicht möglich sein
 	    // --> Lösung: Abstrakte Klasse 
-        HoneyBee bee = new HoneyBee();
+        HoneyBee  bee = new HoneyBee ();
         ausgabe(bee.doYourJob());
 
     }

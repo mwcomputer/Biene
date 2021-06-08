@@ -1,4 +1,4 @@
-public class Drone extends HoneyBee{
+public abstract class Drone extends HoneyBee{
 
     @Override
     public String fly() {
