@@ -1,12 +1,8 @@
 public abstract class HoneyBee {
 
-    public abstract String fly() {
-       
-    }
+    public abstract String fly();
 
-    public abstract String doYourJob() {
-      
-    }
+    public abstract String doYourJob();
 
 
 }
