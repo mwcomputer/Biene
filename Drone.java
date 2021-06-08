@@ -3,13 +3,13 @@ public class Drone extends HoneyBee{
     @Override
     public String fly() {
         // TODO Auto-generated method stub
-        return "ibelieve, i can fly!";
+        return "believe , i can Fly!";
     }
 
     @Override
     public String doYourJob() {
         // TODO Auto-generated method stub
-        return "I'm a Drone i can fly!";
+        return "i´m a worker, I Worke every Day!";
     }
     
    // public String doYourJob() {
